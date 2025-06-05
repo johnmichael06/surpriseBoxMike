@@ -16,8 +16,9 @@ function openGift() {
       "IGANG",
       "<img src='https://static.wikia.nocookie.net/e92f8681-a896-4220-9844-81b1aa3c3730/scale-to-width/755' alt='SIGMA'>",
       "<img src='https://static.wikia.nocookie.net/503aba5e-0573-4211-9b5e-a5bd038744d3/scale-to-width/755' alt='AMBOT'>",
-      "GISAYANG SAYANG RA NAKO INYO ORAS Ns",
-      "SUS!"
+      "GISAYANG SAYANG RA NAKO INYO ORAS",
+      "SUS!",
+      "YOBREL!"
     ];
 
     const random = surprises[Math.floor(Math.random() * surprises.length)];
